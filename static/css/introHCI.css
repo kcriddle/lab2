@@ -9,6 +9,24 @@
 	color: #CC00AA;
 }
 
+
+
+
+    /*This is the code that I wrote for lab2*/
+    .project {
+        margin-left: 20px;
+	background-color: #eeeeee;
+	padding: 20px;
+	width:525px;
+    }
+
+    
+
+
+
+
+
+
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
